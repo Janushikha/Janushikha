@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**Janushikha/Janushikha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Janushikha 👋
 
-Here are some ideas to get you started:
+🎓 Computer Science Student  
+💻 Currently learning JavaScript, C++, and Git  
+🌱 Exploring software development and collaborative coding  
+🚀 Interested in building useful and meaningful projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Tools
+
+Languages:
+- JavaScript
+- C++
+- Python
+- SQL
+
+Tools:
+- Git
+- GitHub
+- VS Code
+- mySQL
+
+---
+
+## 📚 Currently Learning
+
+- Deep learning fundamentals
+- Git & GitHub collaboration
+- Writing clean and structured code
+- Building small practical projects
+
+---
+
+## 🎯 Goals
+
+- Improve problem solving skills
+- Build real-world projects
+- Learn modern software development practices
+- Contribute to collaborative coding projects
+
+---
